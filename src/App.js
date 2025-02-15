@@ -56,7 +56,7 @@ const CreateOrderPage = ({
     <div className="create-order-container">
       <div className="order-section">
         <div className="table-selection">
-          <label>Выберите стол: </label>
+          <label>Даниель Конченный </label>
           <div className="table-buttons">
             {tableButtons.map((number) => (
               <button
