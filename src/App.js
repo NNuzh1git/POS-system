@@ -6,7 +6,7 @@ import "./App.css";
 const MenuPage = ({ menu, categories, setCategory, category, addToOrder }) => {
   return (
     <div className="menu-container">
-      <header className="pos-header">Меню</header>
+      <header className="pos-header">Мею</header>
       <div className="category-filter">
         {categories.map((cat) => (
           <button
