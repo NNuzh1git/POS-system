@@ -95,7 +95,7 @@ const CreateOrderPage = ({
       </div>
 
       <div className="order-section">
-        <h2>Состав заказа</h2>
+        <h2>Состав заказов</h2>
         <ul className="order-list">
           {order.map((item) => (
             <li key={item.id} className="order-item">
